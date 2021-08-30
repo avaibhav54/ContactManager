@@ -1,4 +1,4 @@
-# Cloud Contact Manager 
+# Smart Contact Manager 
 Manage Contact on Cloud using Spring Boot and Spring Security.
 
 # Features
