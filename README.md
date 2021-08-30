@@ -20,6 +20,3 @@ Manage Contact on Cloud using Spring Boot and Spring Security.
   - spring-boot-starter-security
   - spring-boot-devtools
   - bootstrap
-  
-  
-  
