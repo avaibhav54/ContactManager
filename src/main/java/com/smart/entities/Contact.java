@@ -7,6 +7,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 @Entity
 public class Contact {
 
@@ -22,6 +24,7 @@ public class Contact {
 	@Column(length = 5000)
 	private String description;
 	@ManyToOne
+	@JsonIgnore
 	private User user;
 	public Contact(int cId, String name, String secondName, String work, String email, String phone, String image,
 			String description, User user) {

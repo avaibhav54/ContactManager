@@ -11,7 +11,15 @@
 <div class="card-body">
 <h1 class="text-center">Your Contacts</h1>
 	
-<table class="table">
+	<div class="search-container my-4">
+	<input onkeyup="search()" id="search-input" type="text" class="form-control" placeholder="Search your contacts">
+	<div class="search-result">
+	
+	<h1>This is result</h1>
+	</div>
+	</div>
+	
+<table class="table table-hover table-responsive">
   <thead>
     <tr>
       <th scope="col">#</th>
@@ -63,7 +71,13 @@
 </nav>
 </div>
 </div>
+<script type="text/javascript">
 
+
+$('.item').removeClass('active');
+$('#show-link').addClass('active');
+
+</script>
 </section>
 </body>
 </html>
