@@ -55,7 +55,7 @@ Your Profile page
 
 
 
-![](Aspose.Words.86ef50e9-1c97-476a-bfb2-c5aea39582c8.001.png)
+![](WhatsApp Image 2021-10-03 at 4.09.33 AM.jpeg)
 
 
 Home
@@ -64,7 +64,7 @@ Home
 
 Add Contacts Page
 
-![](Aspose.Words.86ef50e9-1c97-476a-bfb2-c5aea39582c8.004.png)
+![](WhatsApp Image 2021-10-03 at 4.10.41 AM.jpeg)
 
 After adding single contact
 
